@@ -56,14 +56,7 @@
 注意：微信/QQ/TIM更新之后要重新安装补丁！
 
 ## 💡致谢
-
 本项目早期内容源自 [wechat_anti_revoke](https://github.com/36huo/wechat_anti_revoke) 项目
-
-## ❤️投喂
-
-觉的好用的话，可以支持作者哟ヾ(･ω･`｡) 
-* [⚡爱发电](https://afdian.net/@huiyadanli)
-* [🍚顿顿饭](https://dun.mianbaoduo.com/@huiyadanli)
 
 ## 📄License
 [GPLv3](https://github.com/huiyadanli/RevokeMsgPatcher/blob/master/LICENSE)
